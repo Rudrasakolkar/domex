@@ -146,8 +146,8 @@ subTitle.innerHTML ="Learning <strong>DOM</strong> with JavaScript";
 // 13. Add Class using classList
 // ========================================
 
-titleBox.classList.add("shadow-lg");
-titleBox.classList.add("rounded-4");
+titleBox.classList.add("shadow-lg"); //Adds a large shadow.
+titleBox.classList.add("rounded-4"); //Makes the corners rounded.
 
 
 // ========================================
