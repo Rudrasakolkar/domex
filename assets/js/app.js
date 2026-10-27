@@ -166,8 +166,7 @@ firstBackend.style.color = "white";
 // 15. Select Last Frontend Item
 // ========================================
 
-let lastFrontend = document.querySelector(
-"#frontend li:last-child");
+let lastFrontend = document.querySelector("#frontend li:last-child");
 
 cl(lastFrontend);
 
